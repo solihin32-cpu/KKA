@@ -18,3 +18,9 @@
 -   📱 **Responsive Design:** Dapat diakses dengan optimal dari desktop, tablet, maupun smartphone.
 
 ## 🏗️ Architecture System
+-   📱 [ Sensor ] -> [ Microcontroller ] -> [ Database ] -> [ Web Server ] -> [ Client Browser ]
+(DHT11, (Arduino/ESP8266/ (MySQL) (PHP/Apache) (HTML/CSS/JS)
+Soil Moisture) ESP32).
+## 🏗️ Informasi penting
+-   📱untuk file coding program dan database silahkan hubungi kami via WA : 085756135235.
+
